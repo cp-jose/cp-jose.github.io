@@ -42,26 +42,9 @@ for consecutive years now --, the top places in the competitive smartphone camer
 I've also had the pleasure to serve as an invited lecturer at the CSE 
 department in the School of Engineering at University of Porto.
 
-<!---
-Throughout the years I've supervised several M.Sc. students and one Ph.D., while also giving a helping hand in the organization of the [VISUM](https://visum.inesctec.pt/) (a Machine Learning and Computer Vision Summer School in Porto, Portugal).
--->
 
 
 †_Licenciatura_ was a 5-year undergraduate degree, the somewhat standard university degree in Portugal 
 before the [_'Bologna Process'_](https://en.wikipedia.org/wiki/Bologna_Process)
 
-<!---
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
--->
 

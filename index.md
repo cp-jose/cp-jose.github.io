@@ -55,8 +55,6 @@ tools for breast cancer screening.
 Given the success of deep learning frameworks in many visual recognition tasks, 
 these tools are being extensively used in medical imaging applications. 
 
-<!--
--->
 
 
 Before this modern-age of (convolutional) neural networks,
