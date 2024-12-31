@@ -17,7 +17,7 @@ Hello and a warm welcome to my webpage!
 I'm a Senior Research Scientist at Huawei R&D in London, UK. 
 Presumably, you found yourself here because you want to know more 
 about my research interests. 
-Below you can find a brief overview; feel free to reach out!
+Below you can find a brief overview; feel free to reach out.
 
 
 <div class="social-links">     
