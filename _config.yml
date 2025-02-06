@@ -59,7 +59,7 @@ minima:
   #
   # Generate social links in footer.
   social_links:
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=tTtTfOYAAAAJ" }
+    - { platform: googlescholar, user_url: "https://scholar.google.com/citations?user=tTtTfOYAAAAJ" }
     - { platform: github,         user_url: "https://github.com/cp-jose" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/josemcp" }
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
