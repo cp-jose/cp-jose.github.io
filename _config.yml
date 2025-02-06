@@ -1,6 +1,6 @@
-# baseurl: '/'
-# url: 'https://cp-jose.github.io'
-# host: 0.0.0.0
+baseurl: '/'
+url: 'https://cp-jose.github.io'
+host: 0.0.0.0
 title: Jose Costa Pereira
 author:
   name: Jose Costa Pereira
