@@ -39,9 +39,11 @@ header_pages:
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
 
+# Google Analytics
+google_analytics: G-5EVRLX2KGC
+
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
-  google_analytics: G-5EVRLX2KGC
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
