@@ -41,7 +41,7 @@ header_pages:
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
-  google_analytics: UA-NNNNNNNN-N
+  google_analytics: G-5EVRLX2KGC
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
