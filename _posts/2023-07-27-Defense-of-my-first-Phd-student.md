@@ -9,3 +9,11 @@ The jury was unanimous in its decision. The jury members included Ana Mendonça 
 Luis Almeida (FEUP), representing the department (ECE) as president, and myself, as Eduardo’s supervisor, were also part of the jury.
 
 __UPDATE:__ Eduardo was awarded the honor of _Cum Laude_.
+
+
+<table border="0">
+  <tr>
+    <td><img src="/assets/news/first_defense.jpg" align="right" width="400px"/></td>
+    <td><img src="/assets/news/first_phd.jpg" align="right" width="400px"/></td>
+  </tr>
+</table>

@@ -9,3 +9,10 @@ Huawei is at the forefront of computational photography, producing some of the b
 This new role presents a challenging and rewarding opportunity that I hope will be mutually beneficial for both myself and the company.
 
 I will continue to collaborate with INESCTEC as a scientific advisor, as I am currently supervising students pursuing their PhD and MSc degrees.
+
+<table border="0">
+  <tr>
+    <td><img src="/assets/news/tower_bridge.jpg" align="right" width="400px"/></td>
+    <td><img src="/assets/news/kings_cross.jpg" align="right" width="400px"/></td>
+  </tr>
+</table>
