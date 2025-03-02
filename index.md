@@ -82,22 +82,24 @@ far from a perfect solution.
 
 [//]: # (Beyond IQA, I’m also interested in Generative AI, particularly Transformer architectures, attention mechanisms, and Stable Diffusion for generating realistic images and videos. More broadly, I enjoy exploring Intelligent Systems—whether it’s AI automating everyday tasks [e.g., copilot-style assistants] or advancing expert-level knowledge [e.g., AI for medical diagnosis]. The rise of AI systems is transforming our daily lives in ways that seemed impossible just a few years ago. )
 
-I'm also interested in other topics. 
+During my time at INESCTEC, I collaborated with students and researchers on developing 
+Computer-Aided Diagnosis/Detection (CADx/e) tools for breast cancer screening. 
+The widespread use of digital imaging with annotations in medical diagnosis, 
+combined with the success of deep learning in visual recognition, 
+has driven the development of many practical medical imaging applications.
+Also, recent advancements in large language models (LLMs) have
+ushered in a new era of AI -- one where we have yet to define the boundaries of what’s possible.
 Generative AI with the ubiquitous 
 [_Transformer architecture and its attention mechanisms_](https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html){:target="_blank"}, 
 and [_Stable Diffusion_](https://arxiv.org/abs/2112.10752){:target="_blank"}
-for generation of realistic images (and videos). 
+for generation of realistic images (and videos) are topics that
+I also follow closely.
 More broadly, I enjoy exploring _'Intelligent Systems'_.
 From automation of everyday tasks (_e.g._ copilot-style assistants) 
 to _expert-level_ knowledge (_e.g._ AI medical diagnosis); 
 the rise of AI systems is transforming our daily lives in ways that seemed 
 impossible just a few years ago.
-During my time at INESCTEC, I collaborated with students and researchers on developing 
-Computer-Aided Diagnosis/Detection (CADx/e) tools for breast cancer screening. 
-With the success of deep learning in visual recognition, these tools are now widely used 
-in medical imaging applications. 
-And, of course, recent advancements in large language models (LLMs) have ushered in 
-a new era of AI -- one where we have yet to define the boundaries of what’s possible.
+
 
 [//]: # (In general, I like all solutions that lead to more )
 [//]: # (our everyday life is seeing an explosion of AI systems that help us in ways that we would consider impossible a few years back. )
@@ -113,12 +115,11 @@ a new era of AI -- one where we have yet to define the boundaries of what’s po
 
 
 
-Before the deep learning revolution, extracting meaningful, machine-friendly image representations was a challenge. 
-Unlike text, which could be handled relatively well with bag-of-words models, images lacked a similarly effective descriptor. 
+Before the recent deep learning revolution, extracting meaningful, machine-friendly image representations was a challenging problem. 
+Unlike text, which could be handled relatively well with a simpl bag-of-words, images lacked a similarly effective descriptor. 
 It all changed in 2012 with [Alex Krizhevsky](https://scholar.google.com/citations?user=xegzhJcAAAAJ){:target="_blank"} et al.'s groundbreaking paper 
-on [_"ImageNet Classification with Deep Convolutional Neural Networks"_](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){:target="_blank"}, 
-presented at NIPS. 
-It was a turning point for convolutional neural networks (CNNs) in computer vision. 
+on [_"ImageNet Classification with Deep Convolutional Neural Networks"_](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){:target="_blank"}. 
+It was a turning point for computer vision. 
 Initially, I saw CNNs as powerful feature extractors but felt they lacked the semantic richness of text embeddings. 
 Today, however, the search for unified multimodal representations -- for text, images, audio, and video -- is more active than ever. 
 Finding accurate, descriptive, and robust representations is crucial for any intelligent system, making this an exciting area of research.
@@ -148,6 +149,4 @@ Finding accurate, descriptive, and robust representations is crucial for any int
 [//]: # (You can have a look at my scholar profile for more details on my publications.		)
 [//]: # (And please reach out if you find any of these topics interesting. My email is below.	)
 
-If any of these topics interest you, feel free to check out my Google Scholar profile for more details on my publications. And don’t hesitate to reach out—my email is below!
-
-
+If any of these topics interests you, feel free to check out my Google Scholar profile for more details on my publications. And don’t hesitate to reach out — my email is below!
