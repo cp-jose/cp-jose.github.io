@@ -116,7 +116,7 @@ impossible just a few years ago.
 
 
 Before the recent deep learning revolution, extracting meaningful, machine-friendly image representations was a challenging problem. 
-Unlike text, which could be handled relatively well with a simpl bag-of-words, images lacked a similarly effective descriptor. 
+Unlike text, which could be handled relatively well with a simple bag-of-words, images lacked a similarly effective descriptor. 
 It all changed in 2012 with [Alex Krizhevsky](https://scholar.google.com/citations?user=xegzhJcAAAAJ){:target="_blank"} et al.'s groundbreaking paper 
 on [_"ImageNet Classification with Deep Convolutional Neural Networks"_](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html){:target="_blank"}. 
 It was a turning point for computer vision. 
